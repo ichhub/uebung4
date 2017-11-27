@@ -1,6 +1,6 @@
 Aufgabe 3)  2. Aussage korrekt
 
-Aufgabe 4)  2. Aussage korrekt
+Aufgabe 4)  2. und 4. Aussage korrekt
 
 Aufgabe 5)  1. abstrakte Klasse
             2. Rolle
